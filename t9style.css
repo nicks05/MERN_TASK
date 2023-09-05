@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+button:hover{
+    border:0.05px solid rgb(15, 15, 15);
+}
+#d1, #d2, #d3, #d4{
+    position:fixed;
+    margin-left: 0px;
+    height:70px;
+    width:70px;
+    border-top-right-radius: 3px;
+    border-bottom-right-radius: 3px;
+
+}
+#d1{
+    margin-top: 5px;
+    background-color: rgb(9, 193, 132);
+}
+#d2{
+    margin-top: 80px;
+    background-color: rgb(47, 123, 245);
+}
+#d3{
+    margin-top: 155px;
+    background-color: rgb(249, 83, 41);
+}
+#d4{
+    margin-top:230px;
+    background-color: rgb(74, 75, 74);
+}
+#text{
+    font-size:50px;
+}

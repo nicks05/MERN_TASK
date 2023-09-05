@@ -1,0 +1,25 @@
+*{
+    margin:0;
+}
+body{
+    display:flex;
+    height:700px;
+    justify-content: center;
+    align-items: center;
+}
+table{
+    color:white;
+}
+#button{
+    width:288px;
+    border:0;
+}
+.lightpink{
+    padding:50px;
+    height:260px;
+    background-color:rgb(255, 134, 154);
+}
+.darkpink{
+    padding:20px;
+    background-color: rgb(218, 65, 90);
+}

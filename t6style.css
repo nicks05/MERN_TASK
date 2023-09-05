@@ -1,0 +1,110 @@
+.table{
+    border:"1" ;
+    background-color:  rgb(125, 213, 233);
+    width: 100%;
+}
+th,td{
+    border: 2px solid black;
+    border-radius: 15px;
+}
+.boxes{
+    height: 270px;
+    width: 270px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    position:absolute;
+    left: 42%;
+}
+#i1{
+    height:45px;
+    width:60px;
+    border: 2px solid rgb(26, 236, 3);
+    margin-left: 14px;
+    margin-right:8px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius: 4px;
+}
+#i2{
+    height:45px;
+    width:60px;
+    border: 2px solid rgb(26, 236, 3);
+    margin-left: 12px;
+    margin-right:8px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius: 5px;
+}
+#i3{
+    height:45px;
+    width:60px;
+    border: 2px solid rgb(26, 236, 3);
+    margin-left: 14px;
+    margin-right:8px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius: 10px;
+}
+#i4{
+    height:45px;
+    width:60px;
+    border: 2px solid rgb(26, 236, 3);
+    margin-left: 14px;
+    margin-right:8px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius: 8px;
+}
+#i5{
+    height:45px;
+    width:60px;
+    border: 2px solid rgb(26, 236, 3);
+    margin-left: 8px;
+    margin-right:8px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius: 6px;
+}
+#i6{
+    height:45px;
+    width:60px;
+    border: 2px solid rgb(26, 236, 3);
+    margin-left: 8px;
+    margin-right:8px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius: 11px;
+}
+#i7{
+    height:45px;
+    width:60px;
+    border: 2px solid rgb(26, 236, 3);
+    margin-left: 14px;
+    margin-right:8px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius: 50%;
+}
+#i8{
+    height:45px;
+    width:60px;
+    border: 2px solid rgb(26, 236, 3);
+    margin-left: 8px;
+    margin-right:8px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-radius: 8px;
+}
+#i9{
+    height:45px;
+    width:60px;
+    border: 2px solid rgb(26, 236, 3);
+    margin-left: 8px;
+    margin-right:8px;
+    margin-top: 10px;
+    margin-bottom:10px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}

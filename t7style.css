@@ -1,0 +1,51 @@
+*{
+    margin:0;
+    padding:0;
+}
+#h41{
+    margin-left: 150px;
+    font-family:arial;
+}
+#h42{
+    font-family:arial;
+}
+.table1{
+    border: 2px solid black;
+    width: 275px;
+    height: 240px;
+    font-weight:200;
+    padding: 10px;
+    display:inline-block;
+    margin-left: 100px; 
+}
+.tbody{
+    height: 100%;
+}
+a{
+    text-decoration: none;
+    font-size:25px;
+}
+td{
+    padding: 5px;
+}
+.t1:hover{
+    background-color: rgb(237, 193, 31);
+}
+.t3:hover{
+    background-color: rgb(85, 84, 84);
+}
+.table2{
+    border: 2px solid black;
+    padding: 6px;
+    position:relative;
+    margin-bottom:160px; 
+    margin-left:100px;
+    display:inline-block;
+}
+.t1{
+    background-color: skyblue;
+    width:300px;
+}
+.t2{
+    background-color: rgb(198, 198, 198);
+}
